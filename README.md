@@ -1,6 +1,6 @@
 # Market Research Data Automation Tool
 
-This Python-based utility automates the cleaning, categorization, and pivoting of raw market research data. Developed during my time as a consultant at Dentsu, the tool was created to replace a manual data preparation process that previously required approximately 30 hours of work each month. 
+This Python-based utility automates the cleaning, categorization, and pivoting of raw market research data. Developed during my time at Dentsu, the tool was created to replace a manual data preparation process that previously required approximately 30 hours of work each month. 
 
 The tool processes raw Excel sheets and outputs structured, PowerBI-ready CSV files.
 
