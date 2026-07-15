@@ -11,12 +11,3 @@ The tool processes raw Excel sheets and outputs structured, PowerBI-ready CSV fi
 * **Dynamic Pivoting:** Reshapes data into flat, tabular formats suitable for PowerBI and PowerPoint visualization.
 * **Custom Selection:** Allows users to select specific data frames and variables to include in the final export.
 * **CSV Export:** Generates clean, standardized CSV files ready for downstream BI tools.
-
-## Getting Started
-
-### Installation
-
-Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
